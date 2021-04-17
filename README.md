@@ -1,5 +1,7 @@
 ### :maple_leaf:Bachelor of Computer Science with Honours:maple_leaf:
 
+![](https://komarev.com/ghpvc/?username=waynedu)
+
 
 <!--
 **waynedu/waynedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
