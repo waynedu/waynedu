@@ -10,9 +10,6 @@ My interests include but not limited to full-stack, IoT, machine learning, compu
 <a href="https://stackoverflow.com/users/11700765" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="11700765" height="30" width="140" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
 
 ![](https://komarev.com/ghpvc/?username=waynedu)
 
