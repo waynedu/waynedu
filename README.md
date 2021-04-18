@@ -2,7 +2,7 @@
 
 My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/waynedu)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](www.linkedin.com/in/waynedu)
 
 ![](https://komarev.com/ghpvc/?username=waynedu)
 
