@@ -13,7 +13,7 @@ University of Ottawa (2016-2019)
   <a href="https://twitter.com/wayndu" target="blank"><img src="https://img.shields.io/twitter/follow/wayndu?logo=twitter&style=for-the-badge" alt="wayndu" /></a> </p>
 </p>
 
-<h3 align="left">Visitor Statistics:</h3>
+<h3 align="left">:satisfied:You are one of them:point_down::</h3>
 
 ![](https://komarev.com/ghpvc/?username=waynedu)
 
