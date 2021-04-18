@@ -15,7 +15,7 @@ University of Ottawa (2016-2019)
 
 <h3 align="left">:satisfied:You are counted:point_down::</h3>
 
-![](https://komarev.com/ghpvc/?username=waynedu width="200" height="400")
+![](https://komarev.com/ghpvc/?username=waynedu")
 
 
 <!--
