@@ -1,7 +1,7 @@
 ### My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
 
 <h3 align="left">Education:</h3>
-Bachelor of Computer Science with Honours Carleton University (2021)
+Bachelor of Computer Science with Honours Carleton University (2021) <br/>
 University of Ottawa (2016-2019)
 
 <h3 align="left">Connect with me:</h3>
