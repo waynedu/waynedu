@@ -2,8 +2,6 @@
 
 My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <a href="https://twitter.com/wayndu" target="blank"><img src="https://img.shields.io/twitter/follow/wayndu?logo=twitter&style=for-the-badge" alt="wayndu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
