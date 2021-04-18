@@ -1,5 +1,7 @@
 ### :maple_leaf:Bachelor of Computer Science with Honours:maple_leaf:
 
+My interests include but not limited to full-stack, IoT, machine learning, computer vision, security.
+
 ![](https://komarev.com/ghpvc/?username=waynedu)
 
 
