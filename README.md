@@ -1,7 +1,7 @@
-### :maple_leaf:Bachelor of Computer Science with Honours:maple_leaf:
+### : My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
 
-My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
-
+<h3 align="left">Education:</h3>
+Bachelor of Computer Science with Honours
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
