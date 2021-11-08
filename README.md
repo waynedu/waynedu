@@ -1,9 +1,9 @@
 ### With work experience in C# .NET and full-stack web development including knowledge of JavaScript, MongoDB, Express, AngularJS, and Node.js, etc. My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
 
 <h3 align="left">Education:</h3>
-Bachelor of Computer Science (Carleton University 2021) <br/>
-Non-Degree Tertiary (University of Ottawa 2016-2019) <br/>
-Non-Degree Tertiary (Athabasca University 2020-2021)
+Bachelor of Computer Science (Carleton University, Canada, 2021) <br/>
+Non-Degree Tertiary (University of Ottawa, Canada, 2016-2019) <br/>
+Non-Degree Tertiary (Athabasca University, Canada, 2020-2021)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
