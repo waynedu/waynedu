@@ -1,4 +1,4 @@
-### With work experience in C# .NET and full-stack web development including knowledge of JavaScript, MongoDB, Express, AngularJS, and Node.js, etc. My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
+With work experience in C# .NET and full-stack web development including knowledge of JSP, Java, Tomcat, SQL Server, MEAN stack, etc. My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
 
 <h3 align="left">Education:</h3>
 Bachelor of Computer Science (Carleton University, Canada, 2021) <br/>
