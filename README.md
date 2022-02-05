@@ -1,9 +1,9 @@
 With work experience in C# .NET and full-stack web development including knowledge of JSP, Java, Tomcat, SQL Server, MEAN stack, etc. My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
 
 <h3 align="left">Education:</h3>
-Bachelor of Computer Science (Carleton University, Canada, 2021) <br/>
-Non-Degree Tertiary (University of Ottawa, Canada, 2016-2019) <br/>
-Non-Degree Tertiary (Athabasca University, Canada, 2020-2021)
+Bachelor of Computer Science (Carleton University, Canada) <br/>
+Non-Degree Tertiary Education(University of Ottawa, Canada) <br/>
+Non-Degree Tertiary Education(Athabasca University, Canada)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
