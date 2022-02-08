@@ -2,8 +2,8 @@ With work experience in C# .NET and full-stack web development including knowled
 
 <h3 align="left">Education:</h3>
 Bachelor of Computer Science (Carleton University, Canada) <br/>
-Non-Degree Tertiary Education (University of Ottawa, Canada) <br/>
-Non-Degree Tertiary Education (Athabasca University, Canada)
+Non-Degree Undergraduate Education (University of Ottawa, Canada) <br/>
+Non-Degree Undergraduate Education (Athabasca University, Canada)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
