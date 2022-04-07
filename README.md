@@ -1,4 +1,5 @@
-With work experience in C# .NET and full-stack web development including knowledge of JSP, Java, Tomcat, SQL Server, MEAN stack, etc. My interests include but not limited to full-stack, IoT, machine learning, computer vision, and security.
+I've worked with the following technologies: Java Web, C#.NET, and advanced WeChat Mini App/Official Account.
+My interests include but not limited to full-stack, IoT, machine learning, image processing, and security.
 
 <h3 align="left">Education:</h3>
 Bachelor of Computer Science (Carleton University, Canada) <br/>
