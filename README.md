@@ -2,9 +2,9 @@ I've worked with the following technologies: Java Web, C#.NET, and advanced WeCh
 My interests include but not limited to full-stack, IoT, machine learning, image processing, and security.
 
 <h3 align="left">Education:</h3>
-Bachelor of Computer Science (Carleton University, Canada) <br/>
-Non-Degree Undergraduate Education (University of Ottawa, Canada) <br/>
-Non-Degree Undergraduate Education (Athabasca University, Canada)
+1. Bachelor of Computer Science (Carleton University, Canada) <br/>
+2. Attended but no degree (University of Ottawa, Canada) <br/>
+3. Attended but no degree (Athabasca University, Canada)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
