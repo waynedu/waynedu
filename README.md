@@ -4,9 +4,9 @@ My interests include but not limited to full-stack, IoT, machine learning, image
 <h3 align="left">Education:</h3>
 1. :man_student:Bachelor of Computer Science (Carleton University, Canada) <br/>
 2. :pencil2:Attended (University of Ottawa, Canada) <br/>
-3. :pencil2:Attended (Athabasca University, Canada)
-4. St. Joan of Arc Catholic Academy
-5. MLIS
+3. :pencil2:Attended (Athabasca University, Canada) <br/>
+4. St. Joan of Arc Catholic Academy<br/>
+5. MLIS<br/>
 6. 华中师大一附中（初中部）
 
 <h3 align="left">Connect with me:</h3>
